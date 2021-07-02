@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="crm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ActivityController.java" line="158" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47227ff8-7f73-499b-afb7-96ed22094da0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deleteActivityBtn</find>
+      <find>selectAllActivityForDetail</find>
+      <find>exportActivityAllBtn</find>
+      <find>导入</find>
+      <find>importActivityListBtn</find>
+      <find>importActivityModal</find>
+      <find>importActivityBtn</find>
+      <find>insertClue</find>
+      <find>创建</find>
+      <find>#createClueModal</find>
+      <find>createClueModal</find>
+      <find>saveCreateClueBtn</find>
+      <find>张三先生</find>
+      <find>关联市场活动</find>
+      <find>bundActivityBtn</find>
+      <find>bundModal</find>
+      <find>insertClueActivityRelationBYList</find>
+      <find>saveBundActivityBtn</find>
+      <find>解除关联</find>
+      <find>deleteClueActivityRelationByClueIdActivityId</find>
+      <find>convertBtn</find>
+      <find>通过线索对象提取客户信息</find>
+      <find>selectClueById</find>
+      <find>selectCustomerByName</find>
+      <find>createTranBtn</find>
+      <find>create-transactionStage</find>
+      <find>保存</find>
+      <find>saveCreateTranBtn</find>
+      <find>selectTranForDetailById</find>
+      <find>selectTranHistoryForDetailByTranId</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/WorkbenchIndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/web/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/mapper/DicTypeMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/mapper/DicTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/service/DicTypeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/service/impl/DicTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/web/controller/DictionaryIndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/settings/dictionary/type/save.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/web/controller/DicTypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/settings/dictionary/type/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/datetimepickertest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/paginationtest.jsp" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crm/excel/CreateExcelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/fileuploadtest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crm/excel/ParseExcelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/activity/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ActivityController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ActivityMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ActivityMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crm/dao/ActivityDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/ActivityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/ActivityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueActivityRelationMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueActivityRelationMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/ClueActivityRelationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/ClueActivityRelationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/clue/detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/ClueService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/ClueServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ClueController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/clue/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/typeaheadtest2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/typeaheadtest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/possibility.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/transaction/save.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/transaction/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/transaction/detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/TranController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/echartstest.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/TranMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/TranMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/TranService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/TranServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ChartController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/chart/transaction/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/commons/domain/ReturnObject.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\crmrepository\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\crmrepository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="crm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="crm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="642" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crm" type="58d84e3e:PackageViewProjectNode" />
+              <item name="crm" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="crm" type="58d84e3e:PackageViewProjectNode" />
+              <item name="crm" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="crm" type="58d84e3e:PackageViewProjectNode" />
+              <item name="crm" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="bjpowernode" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="crm" type="58d84e3e:PackageViewProjectNode" />
+              <item name="crm" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="bjpowernode" type="1f31426a:PackageElementNode" />
+              <item name="crm" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="crm" type="58d84e3e:PackageViewProjectNode" />
+              <item name="crm" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="bjpowernode" type="1f31426a:PackageElementNode" />
+              <item name="crm" type="1f31426a:PackageElementNode" />
+              <item name="commons" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624785754037" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../generatorSqlmapCustom" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\course\crm\src\main\java\com\bjpowernode\crm\workbench\service\impl" />
+      <recent name="D:\course\crm\src\main\java\com\bjpowernode\crm\workbench\service" />
+      <recent name="D:\course\crm\src\main\resources" />
+      <recent name="D:\course\crm\src\main\webapp" />
+      <recent name="D:\course\crm\src\main\java\com\bjpowernode\crm\settings\service\impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.45">
+    <configuration name="CreateExcelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crm.excel.CreateExcelTest" />
+      <module name="crm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseExcelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crm.excel.ParseExcelTest" />
+      <module name="crm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityDaoTest.testSearchActivityNoBoundById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.dao.ActivityDaoTest" />
+      <option name="METHOD_NAME" value="testSearchActivityNoBoundById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityDaoTest.testSelectActivityForDetailByClueId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.dao.ActivityDaoTest" />
+      <option name="METHOD_NAME" value="testSelectActivityForDetailByClueId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityDaoTest.testSelectActivityForPageByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.dao.ActivityDaoTest" />
+      <option name="METHOD_NAME" value="testSelectActivityForPageByCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/crm/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="crm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/crm" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_crm_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58041" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="crm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CreateExcelTest" />
+      <item itemvalue="Application.ParseExcelTest" />
+      <item itemvalue="JUnit.ActivityDaoTest.testSelectActivityForPageByCondition" />
+      <item itemvalue="JUnit.ActivityDaoTest.testSelectActivityForDetailByClueId" />
+      <item itemvalue="JUnit.ActivityDaoTest.testSearchActivityNoBoundById" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.45" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ActivityDaoTest.testSearchActivityNoBoundById" />
+        <item itemvalue="JUnit.ActivityDaoTest.testSelectActivityForDetailByClueId" />
+        <item itemvalue="Application.ParseExcelTest" />
+        <item itemvalue="Application.CreateExcelTest" />
+        <item itemvalue="JUnit.ActivityDaoTest.testSelectActivityForPageByCondition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47227ff8-7f73-499b-afb7-96ed22094da0" name="Default Changelist" comment="" />
+      <created>1622430242881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622430242881</updated>
+      <workItem from="1622430248305" duration="3608000" />
+      <workItem from="1622508441405" duration="4843000" />
+      <workItem from="1622681157317" duration="9671000" />
+      <workItem from="1622772923624" duration="70000" />
+      <workItem from="1622773752380" duration="6720000" />
+      <workItem from="1622853940760" duration="10773000" />
+      <workItem from="1623113443215" duration="8672000" />
+      <workItem from="1623199540564" duration="9243000" />
+      <workItem from="1623286106317" duration="10976000" />
+      <workItem from="1623372598055" duration="8080000" />
+      <workItem from="1623718021083" duration="11551000" />
+      <workItem from="1623804356198" duration="10357000" />
+      <workItem from="1623911060222" duration="10102000" />
+      <workItem from="1623997505118" duration="9163000" />
+      <workItem from="1624083513445" duration="11603000" />
+      <workItem from="1624256347006" duration="11944000" />
+      <workItem from="1624342665309" duration="10150000" />
+      <workItem from="1624603749436" duration="4374000" />
+      <workItem from="1624613602070" duration="374000" />
+      <workItem from="1624614168040" duration="205000" />
+      <workItem from="1624782606471" duration="1240000" />
+      <workItem from="1625120521019" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ActivityDaoTest_testSelectActivityForPageByCondition - 2021.06.11 at 11h 57m 32s.xml">
+      <configuration name="ActivityDaoTest.testSelectActivityForPageByCondition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSelectActivityForPageByCondition - 2021.06.11 at 11h 57m 52s.xml">
+      <configuration name="ActivityDaoTest.testSelectActivityForPageByCondition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSelectActivityForPageByCondition - 2021.06.15 at 08h 51m 44s.xml">
+      <configuration name="ActivityDaoTest.testSelectActivityForPageByCondition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSelectActivityForDetailByClueId - 2021.06.18 at 16h 14m 21s.xml">
+      <configuration name="ActivityDaoTest.testSelectActivityForDetailByClueId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSelectActivityForDetailByClueId - 2021.06.18 at 16h 16m 07s.xml">
+      <configuration name="ActivityDaoTest.testSelectActivityForDetailByClueId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSelectActivityForDetailByClueId - 2021.06.18 at 16h 17m 28s.xml">
+      <configuration name="ActivityDaoTest.testSelectActivityForDetailByClueId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSearchActivityNoBoundById - 2021.06.18 at 16h 57m 24s.xml">
+      <configuration name="ActivityDaoTest.testSearchActivityNoBoundById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSearchActivityNoBoundById - 2021.06.18 at 16h 58m 53s.xml">
+      <configuration name="ActivityDaoTest.testSearchActivityNoBoundById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSearchActivityNoBoundById - 2021.06.18 at 16h 59m 16s.xml">
+      <configuration name="ActivityDaoTest.testSearchActivityNoBoundById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivityDaoTest_testSearchActivityNoBoundById - 2021.06.18 at 17h 03m 55s.xml">
+      <configuration name="ActivityDaoTest.testSearchActivityNoBoundById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="153941000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50735295" side_tool="true" weight="0.1790831" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49264705" visible="true" weight="0.25716332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3176312" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713466" weight="0.23014805" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928367" weight="0.32974428" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49928367" weight="0.32974428" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49928367" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028653" side_tool="true" weight="0.5047106" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.15612382" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3295129" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49264705" weight="0.34813753" />
+      <window_info id="Structure" order="1" sideWeight="0.50735295" side_tool="true" weight="0.1790831" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39434725" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713466" weight="0.38627186" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928367" weight="0.32974428" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49928367" weight="0.32974428" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49928367" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028653" side_tool="true" weight="0.5047106" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295129" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/web/controller/UserController.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/web/controller/DicTypeController.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ActivityController.java</url>
+          <line>155</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ActivityController.java</url>
+          <line>283</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/TranController.java</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((InvocationTargetException)ex).target" custom="java.lang.reflect.InvocationTargetException" />
+        <watch expression="clue" />
+        <watch expression="clue.source" />
+      </configuration>
+      <configuration name="JUnit">
+        <watch expression="activityList.get(0).name" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/ActivityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="81" column="5" lean-forward="true" selection-start-line="77" selection-start-column="4" selection-end-line="81" selection-end-column="5" />
+          <folding>
+            <element signature="e#1896#1897#0" expanded="true" />
+            <element signature="e#1966#1967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crm/dao/ActivityDaoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/domain/ClueActivityRelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/crmrepository/repository/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/ActivityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueActivityRelationMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="71" column="15" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/ClueActivityRelationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/ClueActivityRelationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="82" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueActivityRelationMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="120" column="11" lean-forward="true" selection-start-line="118" selection-start-column="2" selection-end-line="120" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/clue/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="186" column="66" selection-start-line="186" selection-start-column="64" selection-end-line="186" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/ClueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueRemarkMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ClueMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="330" column="28" selection-start-line="330" selection-start-column="14" selection-end-line="330" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/ClueServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="216" column="44" selection-start-line="216" selection-start-column="44" selection-end-line="216" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/clue/convert.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="110" column="39" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/clue/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="489" column="13" selection-start-line="489" selection-start-column="13" selection-end-line="489" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/typeaheadtest2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="53" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/typeaheadtest.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/CustomerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="237" column="37" lean-forward="true" selection-start-line="234" selection-start-column="4" selection-end-line="237" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ClueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2705">
+          <caret line="195" column="5" lean-forward="true" selection-start-line="195" selection-start-column="5" selection-end-line="195" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ContactsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/ContactsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6110">
+          <caret line="235" column="48" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/possibility.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/settings/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="203" column="10" lean-forward="true" selection-start-line="203" selection-start-column="10" selection-end-line="203" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/transaction/save.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="109" column="28" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/domain/Tran.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/transaction/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="148" column="114" lean-forward="true" selection-start-line="148" selection-start-column="114" selection-end-line="148" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/TranRemarkService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/TranHistoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/TranRemarkServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/TranController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="165" column="9" selection-start-line="157" selection-start-column="5" selection-end-line="165" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/TranHistoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/TranHistoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4264">
+          <caret line="164" column="40" selection-start-line="164" selection-start-column="40" selection-end-line="164" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/transaction/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="153" column="23" lean-forward="true" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/echartstest.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="78" column="25" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/domain/FunnelVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/web/controller/ChartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/TranMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="69" column="41" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/mapper/TranMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8060">
+          <caret line="310" column="36" selection-start-line="310" selection-start-column="14" selection-end-line="310" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/TranService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4732">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="3" selection-end-line="153" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/workbench/service/impl/TranServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1612">
+          <caret line="80" column="5" selection-start-line="77" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/chart/transaction/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/crmrepository/repository/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar!/org/springframework/beans/factory/Aware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/crmrepository/repository/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/context/ApplicationContextAware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/workbench/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6500">
+          <caret line="186" column="68" selection-start-line="186" selection-start-column="68" selection-end-line="186" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bjpowernode/crm/commons/domain/ReturnObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>crm:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
